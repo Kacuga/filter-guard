@@ -7,4 +7,5 @@
 !
 
 
-||redirector.googlevideo.com
+||redirector.googlevideo.com^$script,third-party
+||ad.doubleclick.net^$script,third-party
