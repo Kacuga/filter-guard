@@ -1,10 +1,11 @@
 !
 ! Title: unlock
 ! Description: Request-based unblocking filter
-! Version: 0.0.1
-! Last modified: 2025-09-15T15:07:06.048Z
-! zpr-01
+! Version: 0.0.2
+! Last modified: 2025-09-15T16:29:06.048Z
+! zpr-02
 !
 
 
 ||insearch.site
+||n.tracktor.site
