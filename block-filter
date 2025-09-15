@@ -3,7 +3,7 @@
 ! Description: Request-based unblocking filter
 ! Version: 0.0.1
 ! Last modified: 2025-09-15T17:33:06.048Z
-! baz-04
+! baz-05
 !
 
 
@@ -16,3 +16,23 @@
 ||crypto-loot.com^$document
 ||*.crypto-loot.com^$document
 ||googlesyndication.com^$document
+
+
+!baz-05
+
+||ads.mopub.com^$document
+||pubmatic.com^$document
+||openx.net^$document
+||us-ads.openx.net^$document
+||api.fyber.com^$document
+||webview.unityads.unity3d.com^$document
+||config.unityads.unity3d.com^$document
+||adserver.unityads.unity3d.com^$document
+||live.chartboost.com^$document
+||api.fyber.com^$document
+||s.youtube.com^$document
+||youtubei.googleapis.com^$document
+||analytics.google.com^$document
+||click.googleanalytics.com^$document
+||google-analytics.com^$document
+||ssl.google-analytics.com^$document
