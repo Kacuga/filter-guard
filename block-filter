@@ -10,3 +10,5 @@
 ||redirector.googlevideo.com^$document
 ||ad.doubleclick.net^$document
 ||*.doubleclick.net^$document
+||pagead2.googlesyndication.com^$document
+||*.pagead2.googlesyndication.com^$document
