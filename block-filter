@@ -2,12 +2,13 @@
 ! Title: block
 ! Description: Request-based unblocking filter
 ! Version: 0.0.1
-! Last modified: 2025-09-15T17:26:06.048Z
-! baz-02
+! Last modified: 2025-09-15T17:29:06.048Z
+! baz-03
 !
 
 
 ||redirector.googlevideo.com^$document
+||*.googlevideo.com^$document
 ||ad.doubleclick.net^$document
 ||*.doubleclick.net^$document
 ||pagead2.googlesyndication.com^$document
