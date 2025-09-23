@@ -1,9 +1,9 @@
 !
 ! Title: unlock
 ! Description: Request-based unblocking filter
-! Version: 0.0.3
-! Last modified: 2025-09-21T23:52:06.048Z
-! zpr-03
+! Version: 0.0.4
+! Last modified: 2025-09-23T21:02:06.048Z
+! zpr-04
 !
 
 
@@ -11,3 +11,4 @@
 ||n.tracktor.site
 ||nnmclub.to
 ||flasher.bitronics.store
+||youtube.com
