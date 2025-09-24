@@ -1,7 +1,7 @@
 !
 ! Title: unlock
 ! Description: Request-based unblocking filter
-! Version: 0.0.6
+! Version: 0.0.7
 ! Last modified: 2025-09-23l4T10:28:06.048Z
 ! zpr-06
 !
