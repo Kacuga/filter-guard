@@ -7,12 +7,12 @@
 !
 
 
-||insearch.site
-||n.tracktor.site
-||nnmclub.to
-||flasher.bitronics.store
-||youtube.com
-||s.youtube.com
-||2ip.ru
-||h2.nuxus
-||ccvp.ddnsfree.com
+||insearch.site^
+||n.tracktor.site^
+||nnmclub.to^
+||flasher.bitronics.store^
+||youtube.com^
+||s.youtube.com^
+||2ip.ru^
+||h2.nuxus^
+||ccvp.ddnsfree.com^
