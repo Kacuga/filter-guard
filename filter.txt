@@ -1,9 +1,9 @@
 !
 ! Title: unlock
 ! Description: Request-based unblocking filter
-! Version: 0.0.5
-! Last modified: 2025-09-23T21:04:06.048Z
-! zpr-05
+! Version: 0.0.6
+! Last modified: 2025-09-23l4T10:18:06.048Z
+! zpr-06
 !
 
 
@@ -13,3 +13,4 @@
 ||flasher.bitronics.store
 ||youtube.com
 ||s.youtube.com
+||2ip.ru
