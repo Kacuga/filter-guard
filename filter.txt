@@ -14,3 +14,4 @@
 ||youtube.com
 ||s.youtube.com
 ||2ip.ru
+||h2.nexus
