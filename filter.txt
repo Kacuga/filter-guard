@@ -1,9 +1,8 @@
 !
 ! Title: unlock
 ! Description: Request-based unblocking filter
-! Version: 0.0.13
-! Last modified: 2025-09-23l4T11:05:06.048Z
-! zpr-06
+! Version: 0.0.14
+! Last modified: 2025-09-25l4T21:05:06.048Z
 !
 
 
@@ -18,3 +17,4 @@
 ||ccvp.ddnsfree.com^
 ||img3h.hentaicdn.org^
 ||hentailib.me^
+||kupikod.com^
