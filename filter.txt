@@ -1,8 +1,8 @@
 !
 ! Title: unlock
 ! Description: Request-based unblocking filter
-! Version: 0.0.14
-! Last modified: 2025-09-25l4T21:05:06.048Z
+! Version: 0.0.15
+! Last modified: 2025-10-10l4T21:05:06.048Z
 !
 
 
@@ -19,3 +19,5 @@
 ||hentailib.me^
 ||kupikod.com^
 ||steam.kupikod.com^
+||lostfilm.tv^
+||kinozal.tv^
